@@ -42,7 +42,7 @@ Getting Started
 ---
 How to install the Project
 
-Open the GitHub Link [github](https://github.com/SamehBotros/Project-One.git) and then extract all folders
+Open the GitHub Link [github](https://github.com/RSelidio/Reimbursement-project) and then extract all folders
 *  For Angular 
 1.	Open the CLI or Terminal and choose the angular folder
 2.	Write the command  ` npm install `
