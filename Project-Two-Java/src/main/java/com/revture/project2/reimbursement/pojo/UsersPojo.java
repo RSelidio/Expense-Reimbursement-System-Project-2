@@ -39,6 +39,77 @@ public class UsersPojo {
 		this.addres = addres;
 		this.contact = contact;
 	}
+
+
+	public int getId() {
+		return id;
+	}
+
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+
+	public String getName() {
+		return name;
+	}
+
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+
+	public String getPassword() {
+		return password;
+	}
+
+
+	public void setPassword(String password) {
+		this.password = password;
+	}
+
+
+	public String getEmail() {
+		return email;
+	}
+
+
+	public void setEmail(String email) {
+		this.email = email;
+	}
+
+
+	public UsersTypes getUsertypeId() {
+		return usertypeId;
+	}
+
+
+	public void setUsertypeId(UsersTypes usertypeId) {
+		this.usertypeId = usertypeId;
+	}
+
+
+	public String getAddres() {
+		return addres;
+	}
+
+
+	public void setAddres(String addres) {
+		this.addres = addres;
+	}
+
+
+	public String getContact() {
+		return contact;
+	}
+
+
+	public void setContact(String contact) {
+		this.contact = contact;
+	}
+	
 	
 }
 
